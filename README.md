@@ -1,5 +1,5 @@
 proxies:
-  - {name: 🇭🇰 香港1q, server: tund.tizi888.me, port: 51628, type: ss, cipher: aes-256-gcm, password: QO5EYX2b1T}
+  - {name: 🇭🇰 香港1, server: tund.tizi888.me, port: 51628, type: ss, cipher: aes-256-gcm, password: QO5EYX2b1T}
   - {name: 🇭🇰 香港2, server: ct.iepl.tizi888.me, port: 61478, type: ss, cipher: aes-256-gcm, password: QO5EYX2b1T}
   - {name: 🇭🇰 香港3, server: tun.tizi888.me, port: 49431, type: ss, cipher: aes-256-gcm, password: QO5EYX2b1T}
   - {name: 🇭🇰 香港4, server: iepl1.nezha.tech, port: 17195, type: ss, cipher: aes-256-gcm, password: QO5EYX2b1T}
